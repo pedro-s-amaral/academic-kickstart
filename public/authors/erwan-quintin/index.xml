@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erwan Quintin | Pedro Amaral</title>
+    <link>/authors/erwan-quintin/</link>
+      <atom:link href="/authors/erwan-quintin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Erwan Quintin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Erwan Quintin</title>
+      <link>/authors/erwan-quintin/</link>
+    </image>
+    
+    <item>
+      <title>Cash-flow Tranching and the Macroeconomy</title>
+      <link>/publication/ier-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ier-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Creation Costs and Economic Development</title>
+      <link>/publication/et-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/et-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limited Enforcement, Financial Intermediation, and Economic Development: A Quantitative Assessment </title>
+      <link>/publication/ier-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 17:49:37 -0700</pubDate>
+      <guid>/publication/ier-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Competitive Model of the Informal Sector</title>
+      <link>/publication/jme-2006/</link>
+      <pubDate>Sun, 01 Oct 2006 17:49:37 -0700</pubDate>
+      <guid>/publication/jme-2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

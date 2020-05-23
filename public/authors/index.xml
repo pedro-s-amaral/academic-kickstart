@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Pedro Amaral</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Dean Corbae</title>
+      <link>/authors/dean-corbae/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/dean-corbae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erwan Quintin</title>
+      <link>/authors/erwan-quintin/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/erwan-quintin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedro S. Amaral</title>
+      <link>/authors/pedro-s.-amaral/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/pedro-s.-amaral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James C. MacGee</title>
+      <link>/authors/james-c.-macgee/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/james-c.-macgee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Murat Tasci</title>
+      <link>/authors/murat-tasci/</link>
+      <pubDate>Sun, 01 May 2016 17:49:37 -0700</pubDate>
+      <guid>/authors/murat-tasci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jessica Ice</title>
+      <link>/authors/jessica-ice/</link>
+      <pubDate>Sun, 09 Nov 2014 20:41:59 -0700</pubDate>
+      <guid>/authors/jessica-ice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I&#39;m a macroeconomist at Cal State Fullerton, interested in economic fluctuations at different frequencies. I&#39;ve been fortunate enough to have worked with great economists that have taught me a lot. While still a graduate student, together with my colleague Jim MacGee, I started working on the Great Depression in the U.S. and Canada under the tutelage of great people like Ed Prescott, Tim Kehoe, Ellen McGrattan, Hal Cole and Lee Ohanian. I got my first job at Southern Methodist University, where I got in touch with a former colleague, Erwan Quintin, and we started working on informality and financial frictions. Later, while at the FRB Cleveland and the Bank of Portugal, I got turned to macro-labor and worked on cross-country labor market comparisons with my colleague Murat Tasci. Since moving to California, I have been working on the implications of securitization for macro and development issues with Erwan, once again, and Dean Corbae, who rates Lisbon (pictured above) as the best city in the world. I kinda like it too.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

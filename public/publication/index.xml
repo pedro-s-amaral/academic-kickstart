@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Pedro Amaral</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Cash-flow Tranching and the Macroeconomy</title>
+      <link>/publication/ier-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ier-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Creation Costs and Economic Development</title>
+      <link>/publication/et-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/et-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monetary Shocks and Sticky Wages in the U.S. Great Contraction: A Multi-Sector Approach</title>
+      <link>/publication/jme-2017a/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/jme-2017a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monetary Policy and Inequality</title>
+      <link>/publication/frbc-2017/</link>
+      <pubDate>Mon, 09 Jan 2017 20:41:59 -0700</pubDate>
+      <guid>/publication/frbc-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Cyclical Behavior of Equilibrium Unemployment and Vacancies Across OECD Countries</title>
+      <link>/publication/eer-2016/</link>
+      <pubDate>Sun, 01 May 2016 17:49:37 -0700</pubDate>
+      <guid>/publication/eer-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reassessing the Effects of Extending Unemployment Insurance Benefits</title>
+      <link>/publication/frbc-2014/</link>
+      <pubDate>Sun, 09 Nov 2014 20:41:59 -0700</pubDate>
+      <guid>/publication/frbc-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Cyclicality of the Portuguese Labour Market: a Macroeconomic Perspective in the OECD Context</title>
+      <link>/publication/bp-2014/</link>
+      <pubDate>Thu, 09 Oct 2014 20:41:59 -0700</pubDate>
+      <guid>/publication/bp-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monetary Policy Tightening and Long-Term Interest Rates</title>
+      <link>/publication/frbc-2013/</link>
+      <pubDate>Tue, 09 Jul 2013 20:41:59 -0700</pubDate>
+      <guid>/publication/frbc-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology Shocks and Unemployment in the Last Recession</title>
+      <link>/publication/frbc-2012/</link>
+      <pubDate>Sun, 17 Jun 2012 17:49:37 -0700</pubDate>
+      <guid>/publication/frbc-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is U.S. Federal Debt Too Large?</title>
+      <link>/publication/frbc-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 17:49:37 -0700</pubDate>
+      <guid>/publication/frbc-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limited Enforcement, Financial Intermediation, and Economic Development: A Quantitative Assessment </title>
+      <link>/publication/ier-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 17:49:37 -0700</pubDate>
+      <guid>/publication/ier-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Competitive Model of the Informal Sector</title>
+      <link>/publication/jme-2006/</link>
+      <pubDate>Sun, 01 Oct 2006 17:49:37 -0700</pubDate>
+      <guid>/publication/jme-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Great Depression in Canada and the United States: A Neoclassical Perspective</title>
+      <link>/publication/red-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 17:49:37 -0700</pubDate>
+      <guid>/publication/red-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
