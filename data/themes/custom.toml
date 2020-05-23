@@ -1,0 +1,25 @@
+# Theme metadata
+name = "custom"
+
+# Is theme light or dark?
+light = true
+
+# Primary changes the color of links and icons depending on whether you want a dark or light-colored theme
+# primary = "#328cc1"
+# primary_light = "#328cc1"
+# primary_dark = "#DA2536"
+primary = "#0d319e"
+primary_light = "#0d319e"
+primary_dark = "#cbced6"
+
+# Menu changes the colors in the top menu bar
+# menu_primary = "#494949"
+menu_primary = "#212F3C"
+menu_text = "#cbced6"
+menu_text_active = "#fff"
+menu_title = "#cbced6"
+
+# Backgrounds changes the color of the section panels on the first page
+background = "#fff"
+home_section_odd = "#fff"
+home_section_even = "#f7f7f7"
