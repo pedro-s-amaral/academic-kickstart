@@ -20,7 +20,7 @@ authors = ["Pedro S. Amaral","Dean Corbae","Erwan Quintin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*International Economic Review (forthcoming)*"
+publication = "*International Economic Review*"
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
