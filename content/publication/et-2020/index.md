@@ -3,7 +3,7 @@
 title = "Security Creation Costs and Economic Development"
 
 # Date first published.
-date = "2020-01-01"
+date = "2021-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Pedro S. Amaral","Erwan Quintin"]
@@ -20,7 +20,7 @@ authors = ["Pedro S. Amaral","Erwan Quintin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Economic Theory (forthcoming)*"
+publication = "*Economic Theory*"
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
